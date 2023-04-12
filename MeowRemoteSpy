@@ -29,7 +29,7 @@ local colorSettings =
 }
 
 local settings = {
-["Keybind"] = "P"
+["Keybind"] = "LeftAlt"
 }
 
 if PROTOSMASHER_LOADED then
